@@ -1,4 +1,4 @@
-# Snake-Game 🐍
+# Snake Game 🐍
 Projeto de um Snake Game, utilizando JavaScript, HTML e CSS.
 
 <div>
@@ -26,8 +26,17 @@ Projeto de um Snake Game, utilizando JavaScript, HTML e CSS.
 
 ## Tecnologias 🛠️
   As seguintes ferramentas que foram usadas na construção do projeto:
-  - JavaScript ｡🇯‌🇸‌
-  - HTML5 🌐
-  - CSS ⚙️
+   <tbody>
+    <tr>
+      <td>JavaScript ｡🇯‌🇸
+      </tr>
+    <tr>
+      <td>HTML5 🌐</td>
+    </tr>
+    <tr>
+      <td>CSS ⚙️</td>
+    </tr>
+  </tbody>‌
+
 
 </div>
