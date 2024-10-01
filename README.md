@@ -13,10 +13,16 @@ Projeto de um Snake Game, utilizando JavaScript, HTML e CSS.
     </li>
   </ul>
 </div>
-# Como funciona o Jogo 📌
-  No jogo da cobrinha, o jogador controla uma cobra utilizando as teclas ⬅️⬆️⬇️➡️ que se move em um espaço limitado, com o objetivo de coletar o objeto para crescer.
-  A cada objeto consumido, a cobra aumenta de tamanho, tornando o jogo mais desafiador. O jogador deve evitar colisões com as paredes e com o próprio corpo da cobra.
-  O jogo termina quando ocorre uma colisão, e o objetivo é acumular o maior número de pontos possível.
+
+## Como funciona o Jogo 📌
+<div>
+  <ul>
+    <li>No jogo da cobrinha, o jogador controla uma cobra utilizando as teclas ⬅️⬆️⬇️➡️ que se move em um espaço limitado, com o objetivo de coletar o objeto para crescer.
+    <li>A cada objeto consumido, a cobra aumenta de tamanho, tornando o jogo mais desafiador. O jogador deve evitar colisões com as paredes e com o próprio corpo da cobra.
+    <li>O jogo termina quando ocorre uma colisão, e o objetivo é acumular o maior número de pontos possível.
+    </li>
+  </ul>
+</div>
 
 ## Tecnologias 🛠️
   As seguintes ferramentas que foram usadas na construção do projeto:
