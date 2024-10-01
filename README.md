@@ -26,17 +26,18 @@ Projeto de um Snake Game, utilizando JavaScript, HTML e CSS.
 
 ## Tecnologias 🛠️
   As seguintes ferramentas que foram usadas na construção do projeto:
+<table>
    <tbody>
-    <tr>
-      <td>JavaScript ｡🇯‌🇸
+      <tr>
+        <td>JavaScript ｡🇯‌🇸
       </tr>
-    <tr>
-      <td>HTML5 🌐</td>
-    </tr>
-    <tr>
-      <td>CSS ⚙️</td>
-    </tr>
-  </tbody>‌
-
+      <tr>
+        <td>HTML5 🌐</td>
+      </tr>
+      <tr>
+        <td>CSS ⚙️</td>
+      </tr>
+    </tbody>‌
+</table>
 
 </div>
