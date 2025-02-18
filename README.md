@@ -1,5 +1,5 @@
 # Snake Game 🐍
-Projeto de um Snake Game, utilizando JavaScript, HTML e CSS.
+Projeto de um Snake Game, utilizando **JavaScript, HTML e CSS**
 
 Acesse aqui para jogar o <a href="https://thatianecosta.github.io/Snake-Game/" target="_blank"> Jogo da Cobrinha</a>
 
