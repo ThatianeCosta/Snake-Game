@@ -10,14 +10,14 @@ Acesse aqui para jogar o <a href="https://thatianecosta.github.io/Snake-Game/" t
 # Sobre o Projeto 📄
 <div>
   <ul>
-    <li>O projeto consiste na construção do clássico **"Jogo da Cobrinha"**, popularizado por celulares da Nokia que vinham com o jogo já instalado.
+    <li>O projeto consiste na construção do clássico "Jogo da Cobrinha", popularizado por celulares da Nokia que vinham com o jogo já instalado.
     <li>O objetivo é coletar a bola para fazer a cobra crescer, evitando colisões com as paredes e com o próprio corpo.
     <li>Com esse repositório busquei recriar o jogo utilizando JavaScript, para ser jogado através do seu navegador.
     </li>
   </ul>
 </div>
 
-## Como funciona o Jogo 📌
+## Como funciona o Jogo 🎮
 <div>
   <ul>
     <li>No jogo da cobrinha, o jogador controla uma cobra utilizando as teclas ⬅️⬆️⬇️➡️ que se move em um espaço limitado, com o objetivo de coletar o objeto para crescer.
