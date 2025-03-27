@@ -1,6 +1,6 @@
 # Snake Game 🐍
 
-Este projeto visa desenvolver o "Snake Game" utilizando **JavaScript, HTML e CSS**, onde o jogador controla uma cobra que deve coletar alimentos enquanto evita bater nas paredes e em si mesma. O jogo é acessível atráves do navegador, relembrando a experiência nostálgica dos antigos celulares Nokia
+Este projeto visa desenvolver o "Snake Game" utilizando **JavaScript, HTML e CSS**, onde o jogador controla uma cobra que deve coletar alimentos enquanto evita bater nas paredes e em si mesma. O jogo é acessível atráves do navegador, relembrando a experiência nostálgica dos antigos celulares Nokia.
 
 Acesse aqui para jogar o <a href="https://thatianecosta.github.io/Snake-Game/" target="_blank"> **Jogo da Cobrinha**</a>
 
